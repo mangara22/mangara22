@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Michael! (@mangara22)
-- 🏫 I’m currently a sophomore majoring in Computer Science! 💻
+- 🏫 I’m currently a sophomore majoring in Computer Science at the University of Minnesota! 💻
+- 🖥️ I am also an Undergraduate Teaching Assistant for an Intro to Data Structures and Algorithms class in Java!
 
 <!---
 mangara22/mangara22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

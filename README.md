@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michael! (@mangara22)
-- 🏫 I’m currently a sophomore majoring in Computer Science at the University of Minnesota! 💻
+- 🏫 I’m currently a sophomore majoring in Computer Science at the University of Minnesota Twin Cities. 💻
 - 🖥️ I am also an Undergraduate Teaching Assistant for an Intro to Data Structures and Algorithms class in Java!
 
 <!---

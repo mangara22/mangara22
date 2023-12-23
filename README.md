@@ -7,7 +7,7 @@
 
 ### 👨🏾‍💻 About Me:
 - :school: I’m currently a junior majoring in Computer Science and minoring in IT Infrastructure at the University of Minnesota Twin Cities.
-- :computer: I also work as an Undergraduate Teaching Assistant for a computer architecture course.
+- :computer: I also work as an Undergraduate Teaching Assistant for a computer architecture course. I have previously been a Teaching Assistant for an Introductory Algorithms & Data Structures class.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangara22&hide_progress=true)
 

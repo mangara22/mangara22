@@ -11,6 +11,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangara22&hide_progress=true)
 
+<!---
 ---
 
 ### :hammer_and_wrench: Languages:
@@ -34,7 +35,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" height="55" width="55"/>
 </div>
 
-<!---
 mangara22/mangara22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

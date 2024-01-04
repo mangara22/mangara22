@@ -7,7 +7,7 @@
 
 ### 👨🏾‍💻 About Me:
 - :school: I’m currently a junior majoring in Computer Science and minoring in IT Infrastructure at the University of Minnesota Twin Cities.
-- :computer: I also work as an Undergraduate Teaching Assistant for a Machine Architecture & Organization course (CSCI 2021). I have previously been a Teaching Assistant for an Introductory Algorithms & Data Structures class (CSCI 1933).
+- :computer: I also work as an Undergraduate Teaching Assistant for a Machine Architecture & Organization class (CSCI 2021). I have previously been a Teaching Assistant for an Introductory Algorithms & Data Structures class (CSCI 1933).
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangara22&hide_progress=true)
 

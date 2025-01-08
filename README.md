@@ -5,11 +5,9 @@
 
 ---
 
-### 👨🏾‍💻 About Me:
-- :school: I’m a student majoring in Computer Science (B.S.) and minoring in IT Infrastructure at the University of Minnesota Twin Cities.
-- :computer: I also worked as an Undergraduate Teaching Assistant for classes such as Program Design & Development (CSCI 3081W), Machine Architecture & Organization (CSCI 2021), and Intro to Algorithms & Data Structures (CSCI 1933).
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangara22&hide_progress=true)
+### About Me:
+- I’m a student majoring in Computer Science (B.S.) and minoring in IT Infrastructure at the University of Minnesota Twin Cities.
+- I also worked as an Undergraduate Teaching Assistant for classes such as Program Design & Development (CSCI 3081W), Machine Architecture & Organization (CSCI 2021), and Intro to Algorithms & Data Structures (CSCI 1933).
 
 <!---
 mangara22/mangara22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

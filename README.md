@@ -6,7 +6,7 @@
 ---
 
 ### About Me:
-- I’m a student who has a B.S. in Computer Science and a self-designed minor in IT Infrastructure at the University of Minnesota Twin Cities.
+- I’m a graduate of the University of Minneosta Twin Cities that has a B.S. in Computer Science and a self-designed minor in IT Infrastructure.
 - I also worked as an Undergraduate Teaching Assistant for Program Design & Development (CSCI 3081W), Machine Architecture & Organization (CSCI 2021), and Intro to Algorithms & Data Structures (CSCI 1933).
 
 <!---

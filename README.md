@@ -6,8 +6,8 @@
 ---
 
 ### About Me:
-- I’m a graduate of the University of Minneosta Twin Cities with a B.S. in Computer Science and a self-designed minor in IT Infrastructure.
-- I also worked as an Undergraduate Teaching Assistant for Program Design & Development (CSCI 3081W), Machine Architecture & Organization (CSCI 2021), and Intro to Algorithms & Data Structures (CSCI 1933).
+- I’m a recent graduate of the University of Minnesota Twin Cities with a B.S. in Computer Science and a self-designed minor in IT Infrastructure.
+- I have previously worked as an Undergraduate Teaching Assistant for Program Design & Development (CSCI 3081W), Machine Architecture & Organization (CSCI 2021), and Intro to Algorithms & Data Structures (CSCI 1933).
 
 <!---
 mangara22/mangara22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
